@@ -41,7 +41,7 @@ const chai =  () => {
 
 // const addTwo = (num1, num2) =>  num1 + num2
 
-// const addTwo = (num1, num2) => ( num1 + num2 )
+// const addTwo = (num1, num2) => ( num1 + num2 ) // using in react
 
 const addTwo = (num1, num2) => ({username: "hitesh"})
 
